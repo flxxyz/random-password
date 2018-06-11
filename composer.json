@@ -25,5 +25,7 @@
     "psr-4": {
       "RandomPassword\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
