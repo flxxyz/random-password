@@ -1,0 +1,30 @@
+{
+  "name": "flxxyz/random-password",
+  "description": "php random password generator library",
+  "keywords": [
+    "password generator",
+    "secure password generator",
+    "password generator",
+    "password",
+    "random password",
+    "random"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "homepage": "https://github.com/flxxyz/random-password",
+  "authors": [
+    {
+      "name": "flxxyz",
+      "email": "i@mdzz.name"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RandomPassword\\": "src/"
+    }
+  }
+}
