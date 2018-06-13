@@ -92,7 +92,7 @@ class Password
      */
     private function clear()
     {
-        $this->count(8);
+        $this->count(1);
         $this->length(8);
         $this->ucfirst = false;
         $this->ignore = [];
